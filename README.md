@@ -10,7 +10,11 @@ Docker installation is necessary to run docker image with JupyterLab: https://do
 Make sure that docker deamon is running, before go to How to use. TODO put screen.
 
 ### How to use:
-### Run JupyterLab with Docker
+
+#### Shortcut's GIF
+<img src="./to_readme/cca3d_run.gif" alt="1">
+
+#### Run JupyterLab with Docker
 Run this command in cmd, anaconda prompt or any other terminal. It will start a JupyterLab with notebooks. It is an integrated environment to perform the analysis.
 
 ```bash
